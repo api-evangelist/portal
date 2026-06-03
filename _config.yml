@@ -1,0 +1,19 @@
+title: Portal
+description: A curated index of services, tooling, and open source solutions for API
+  developer portals, API catalogs, API marketplaces, and developer experience platforms.
+  This collection covers dedicated portal platforms, gateway-bundled portals, documentation-as-portal
+  tools, API marketplaces, and open source portal frameworks.
+url: https://portal.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

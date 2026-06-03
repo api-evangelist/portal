@@ -1,0 +1,97 @@
+meta:
+  name: Portal
+  description: A curated index of services, tooling, and open source solutions for
+    API developer portals, API catalogs, API marketplaces, and developer experience
+    platforms. This collection covers dedicated portal platforms, gateway-bundled
+    portals, documentation-as-portal tools, API marketplaces, and open source portal
+    frameworks.
+  tags:
+  - API Catalog
+  - API Marketplace
+  - Developer Experience
+  - Developer Portal
+  portal: null
+  github: null
+  repo: portal
+services_tools:
+- name: API Layer
+  repo: https://github.com/api-evangelist/api-layer
+  apisio: https://providers.apis.io/providers/api-layer/
+- name: Apiman
+  repo: https://github.com/api-evangelist/apiman
+  apisio: https://providers.apis.io/providers/apiman/
+- name: APIMatic
+  repo: https://github.com/api-evangelist/apimatic
+  apisio: https://providers.apis.io/providers/apimatic/
+- name: APIs.guru
+  repo: https://github.com/api-evangelist/apis-guru
+  apisio: https://providers.apis.io/providers/apis-guru/
+- name: Apidog
+  repo: https://github.com/api-evangelist/apidog
+  apisio: https://providers.apis.io/providers/apidog/
+- name: Backstage
+  repo: https://github.com/api-evangelist/backstage
+  apisio: https://providers.apis.io/providers/backstage/
+- name: Bump.sh
+  repo: https://github.com/api-evangelist/bump-sh
+  apisio: https://providers.apis.io/providers/bump-sh/
+- name: Cortex
+  repo: https://github.com/api-evangelist/cortex
+  apisio: https://providers.apis.io/providers/cortex/
+- name: Docusaurus
+  repo: https://github.com/api-evangelist/docusaurus
+  apisio: https://providers.apis.io/providers/docusaurus/
+- name: Fern
+  repo: https://github.com/api-evangelist/fern
+  apisio: https://providers.apis.io/providers/fern/
+- name: GitBook
+  repo: https://github.com/api-evangelist/gitbook
+  apisio: https://providers.apis.io/providers/gitbook/
+- name: Konfig
+  repo: https://github.com/api-evangelist/konfig
+  apisio: https://providers.apis.io/providers/konfig/
+- name: Mintlify
+  repo: https://github.com/api-evangelist/mintlify
+  apisio: https://providers.apis.io/providers/mintlify/
+- name: Moesif
+  repo: https://github.com/api-evangelist/moesif
+  apisio: https://providers.apis.io/providers/moesif/
+- name: Port
+  repo: https://github.com/api-evangelist/port
+  apisio: https://providers.apis.io/providers/port/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: RapidAPI
+  repo: https://github.com/api-evangelist/rapidapi
+  apisio: https://providers.apis.io/providers/rapidapi/
+- name: ReadMe
+  repo: https://github.com/api-evangelist/readme
+  apisio: https://providers.apis.io/providers/readme/
+- name: Redocly
+  repo: https://github.com/api-evangelist/redocly
+  apisio: https://providers.apis.io/providers/redocly/
+- name: Scalar
+  repo: https://github.com/api-evangelist/scalar
+  apisio: https://providers.apis.io/providers/scalar/
+- name: Speakeasy
+  repo: https://github.com/api-evangelist/speakeasy
+  apisio: https://providers.apis.io/providers/speakeasy/
+- name: Stainless
+  repo: https://github.com/api-evangelist/stainless
+  apisio: https://providers.apis.io/providers/stainless/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: SwaggerHub
+  repo: https://github.com/api-evangelist/swaggerhub
+  apisio: https://providers.apis.io/providers/swaggerhub/
+- name: Treblle
+  repo: https://github.com/api-evangelist/treblle
+  apisio: https://providers.apis.io/providers/treblle/
+- name: Zuplo
+  repo: https://github.com/api-evangelist/zuplo
+  apisio: https://providers.apis.io/providers/zuplo/
+features: []
+use_cases: []
+integrations: []
