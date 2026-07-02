@@ -1,0 +1,31 @@
+related:
+- name: Management
+  url: https://management.apievangelist.com
+  icon: https://management.apievangelist.com/icon.png
+  description: An index and topic collection covering full-stack API management platforms — solutions
+    that combine an API gateway, developer portal, analytics, monetization, governance, and…
+- name: Developer Experience
+  url: https://developer-experience.apievangelist.com
+  icon: https://developer-experience.apievangelist.com/icon.png
+  description: This is the index of developer experience service and tooling repos being tracked by the
+    API Evangelist network, covering developer portals, API documentation platforms, API…
+- name: Aggregation
+  url: https://aggregation.apievangelist.com
+  icon: https://aggregation.apievangelist.com/icon.png
+  description: An index and topic collection covering API aggregation, marketplaces, directories, unified
+    APIs, and catalog platforms. API aggregation brings together multiple APIs under a…
+- name: Plugin
+  url: https://plugin.apievangelist.com
+  icon: https://plugin.apievangelist.com/icon.png
+  description: An index and topic collection covering plugin, extension, and add-on architectures with
+    public APIs and marketplaces. This collection spans editor and IDE plugin ecosystems (VS…
+- name: IDE
+  url: https://ide.apievangelist.com
+  icon: https://ide.apievangelist.com/icon.png
+  description: An index and topic collection covering integrated development environments (IDEs), code
+    editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: Documentation
+  url: https://documentation.apievangelist.com
+  icon: https://documentation.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for producing API and developer
+    documentation. This collection covers hosted documentation platforms, open source…
