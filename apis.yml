@@ -1,5 +1,6 @@
 aid: portal
 name: Portal
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for API
   developer portals, API catalogs, API marketplaces, and developer experience
