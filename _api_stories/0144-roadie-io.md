@@ -1,7 +1,8 @@
 ---
-title: 7 Best Developer Portals for Enterprise Engineering Teams
-link: https://roadie.io/blog/7-best-developer-portals-for-enterprise-engineering-teams/
-published: '2025-12-16'
+title: 'Backstage and its Place Among Developer Portals: A Technical Architecture
+  Guide'
+link: https://roadie.io/blog/backstage-and-its-place-among-developer-portals/
+published: '2026-03-17'
 provider: roadie-io
 repo: https://github.com/api-evangelist/roadie-io
 domain: roadie.io
