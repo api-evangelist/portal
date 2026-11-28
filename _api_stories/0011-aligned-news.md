@@ -1,8 +1,8 @@
 ---
-title: Swarms Skills open-sources MCP/REST hooks so coding agents can use the Swarms
-  Marketplace
-link: https://x.com/swarms_corp/status/2118849370703671406
-published: '2026-11-06'
+title: Supabase CTO interviews Anthropic's Claude Developer Platform leads on how
+  Claude changed team structure and hiring
+link: https://x.com/supabase/status/2119581986960368045
+published: '2026-11-09'
 provider: aligned-news
 repo: https://github.com/api-evangelist/aligned-news
 domain: x.com
